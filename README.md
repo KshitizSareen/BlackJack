@@ -7,7 +7,7 @@ This Repository contains the code for the game Blackjack.
 It contains the source and header files.
 It has all the relevant functions.
 
-The Source folder contains all the source code of the project.
+BlackJack.cpp contains all the source code of the project.
 The Header folder contains all the Header files of the project.
 
 
