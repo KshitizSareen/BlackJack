@@ -8,6 +8,6 @@ It contains the source and header files.
 It has all the relevant functions.
 
 BlackJack.cpp contains all the source code of the project.
-The Header folder contains all the Header files of the project.
+BlackJackCards.h folder contains all the Header files of the project.
 
 
